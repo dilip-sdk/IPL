@@ -3,7 +3,7 @@
 ## 📌 Overview
 The **IPL Data Analysis** project aims to extract valuable insights from IPL match data using data analytics techniques. By analyzing historical match outcomes, player performances, team comparisons, and venue statistics, the project visualizes trends and patterns through interactive graphs like bar charts, line graphs, and scatter plots.
 
-With Python’s powerful libraries like **Pandas, Matplotlib, and Seaborn**, this project provides a comprehensive overview of IPL data for **in-depth analysis and decision-making**.
+With Python’s powerful libraries like **Pandas, Matplotlib, and Seaborn**, and **Tableau for advanced dashboards**, this project provides a comprehensive overview of IPL data for **in-depth analysis and decision-making**.
 
 ---
 
@@ -35,15 +35,25 @@ With Python’s powerful libraries like **Pandas, Matplotlib, and Seaborn**, thi
 
 ---
 
-## 🛠️ Tech Stack
-- **Programming Language:** Python 🐍  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **Data Visualization:** Bar Charts, Line Graphs, Scatter Plots, Heatmaps, Pie Charts  
+## 📊 Tableau Dashboards
+
+🔹 **Overall Team Analysis Dashboard**  
+🔹 **Batting Statistics Dashboard**  
+🔹 **Bowling Statistics Dashboard**  
+
+📌 Check out the interactive Tableau dashboards here:  
+**[👉 View Dashboards](your_tableau_public_link_here)**  
+
+![Tableau Dashboard Preview](your_dashboard_image_link_here)
+
+*(Replace the above link with actual Tableau Public links and images of dashboards.)*
 
 ---
 
-## 📊 Sample Visualizations
-🎨 *Add images of graphs here (e.g., win percentage chart, player performance scatter plot, etc.)*  
+## 🛠️ Tech Stack
+- **Programming Language:** Python 🐍  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Data Visualization:** Tableau, Bar Charts, Line Graphs, Scatter Plots, Heatmaps, Pie Charts  
 
 ---
 
