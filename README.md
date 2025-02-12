@@ -1,3 +1,9 @@
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/f3b971a5-50b4-4c42-9a65-221db588334f" width="800" height="300" "/>
+  
+</p>
+
 # 🏏 IPL Data Analysis
 
 ## 📌 Overview
@@ -42,11 +48,26 @@ With Python’s powerful libraries like **Pandas, Matplotlib, and Seaborn**, and
 🔹 **Bowling Statistics Dashboard**  
 
 📌 Check out the interactive Tableau dashboards here:  
-**[👉 View Dashboards](your_tableau_public_link_here)**  
+**👉 View Dashboards**  
 
-![Tableau Dashboard Preview](your_dashboard_image_link_here)
+[Team Analysis Dashboard](https://public.tableau.com/views/IPLDataAnalysis_17393967228710/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-*(Replace the above link with actual Tableau Public links and images of dashboards.)*
+<img width="1429" alt="Screenshot 2025-01-14 at 7 27 17 AM" src="https://github.com/user-attachments/assets/5a3e1cb8-d3c3-473e-925c-9ee8b4bbab22" />
+
+---
+
+
+**[Player Stats Analysis Dashboard](https://public.tableau.com/views/Playerperformancedashboard_17393957507580/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+**Batting Stats Dashboard**
+-
+<img width="1470" alt="Screenshot 2025-02-02 at 9 42 10 AM" src="https://github.com/user-attachments/assets/7b67ede3-4987-4f45-aafc-e9797ab47369" />
+
+
+**Bowling Stats Dashboard**
+-
+<img width="1470" alt="Screenshot 2025-02-02 at 9 41 48 AM" src="https://github.com/user-attachments/assets/72dcb96b-3f57-4f02-ad04-fa740e712c58" />
+
 
 ---
 
