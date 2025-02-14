@@ -14,23 +14,7 @@ The **IPL Data Analysis** project aims to extract valuable insights from IPL mat
 With Python’s powerful libraries like **Pandas, Matplotlib, and Seaborn**, and **Tableau for advanced dashboards**, this project provides a comprehensive overview of IPL data for **in-depth analysis and decision-making**.
 
 ---
-## 📊 IPL Data Analysis Workflow
 
-
-
-```mermaid
-graph TD
-    A["Raw IPL Data"] -->|Data Cleaning| B["Cleaned Data (CSV)"]
-    B -->|Data Analysis| C{"Python Libraries"}
-    C --> D["Pandas & NumPy for Data Processing"]
-    C --> E["Matplotlib for Data Visualization"]
-    D -->|Processed Data| F["Graphs & Trends Analysis"]
-    E -->|Plots & Charts| F
-    F -->|For Better Visualization| G["Tableau Dashboard"]
-    G -->|Final Insights| H["Decision Making & Reporting"]
-
-
-```
 
 ## 🚀 Features
 
