@@ -1,10 +1,12 @@
 
+
 <p align="center">
     <img src="https://github.com/user-attachments/assets/f3b971a5-50b4-4c42-9a65-221db588334f" width="800" height="300" "/>
   
 </p>
 
 # 🏏 IPL Data Analysis
+This project was developed as part of my Data Analyst Internship at Infotact Solutions, alongside two other team members. The aim of this project is to extract valuable insights from IPL match data using data analytics techniques.
 
 ## 📌 Overview
 The **IPL Data Analysis** project aims to extract valuable insights from IPL match data using data analytics techniques. By analyzing historical match outcomes, player performances, team comparisons, and venue statistics, the project visualizes trends and patterns through interactive graphs like bar charts, line graphs, and scatter plots.
@@ -12,6 +14,23 @@ The **IPL Data Analysis** project aims to extract valuable insights from IPL mat
 With Python’s powerful libraries like **Pandas, Matplotlib, and Seaborn**, and **Tableau for advanced dashboards**, this project provides a comprehensive overview of IPL data for **in-depth analysis and decision-making**.
 
 ---
+## 📊 IPL Data Analysis Workflow
+
+
+
+```mermaid
+graph TD
+    A["Raw IPL Data"] -->|Data Cleaning| B["Cleaned Data (CSV)"]
+    B -->|Data Analysis| C{"Python Libraries"}
+    C --> D["Pandas & NumPy for Data Processing"]
+    C --> E["Matplotlib for Data Visualization"]
+    D -->|Processed Data| F["Graphs & Trends Analysis"]
+    E -->|Plots & Charts| F
+    F -->|For Better Visualization| G["Tableau Dashboard"]
+    G -->|Final Insights| H["Decision Making & Reporting"]
+
+
+```
 
 ## 🚀 Features
 
